@@ -1,0 +1,11 @@
+**/*
+!README.md
+!go.sum
+!go.mod
+!.gitignore
+!**/
+!**/*.go
+!Dockerfile
+!.github/**
+!charts/**
+!.dockerignore

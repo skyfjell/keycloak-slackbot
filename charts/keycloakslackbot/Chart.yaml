@@ -1,0 +1,6 @@
+apiVersion: v2
+name: keycloakslackbot
+description: A Helm chart that pings Keycloak for new users and post to a slack channel.
+type: application
+version: "" # set by release action
+appVersion: "" # set by release action
