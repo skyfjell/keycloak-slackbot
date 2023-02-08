@@ -25,3 +25,7 @@ You need 5 more (in addition to `$SLACK_URL`) env vars of information to debug.
 3. `$KEYCLOAK_PASSWORD`: This is the client_secret
 4. `$KEYCLOAK_REAM`: Is the name of the keycloak realm you are using.
 5. `$INTERVAL`: In seconds, how often to run this check.
+
+## Helm chart
+
+Helm chart is stored in the skyfjell helm chart repo https://github.com/skyfjell/charts
